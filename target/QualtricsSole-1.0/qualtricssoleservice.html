@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>Formulario Qualtrics</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css'>
+    </head>
+    <body>
+        <section>
+            <div class="form-box">
+                <div class="form-value">
+                    <form enctype="multipart/form-data" action="QualtricsIntegrationService" method="POST">
+                        <h2>Qualtrics-SOLE Servicio</h2>
+                         <div class="reportSection">
+                            <a href="qualtricsreports.jsp" class='bx bxs-report'></a>
+                        </div>
+                        <div class="inputbox">
+                            <i class='bx bx-id-card'></i>
+                            <input type="text" name="idEncuesta" required>
+                            <p>ID Encuesta</p>
+                        </div>
+                        <div class="inputbox">
+                            <i class='bx bx-id-card'></i>
+                            <input type="text" name="mailingList" required>
+                            <p>ID Mailing List</p>
+                        </div>
+                        <div class="inputbox">
+                            <input type="file" name="filecsv" class="upload">
+                        </div>
+                        <div class="cont-button">
+                            <input type="submit" value="Cargar" onclick="this.form.submit(); this.disabled = true; this.value = 'Sending…';"  class="do_it">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    </body>
+</html>

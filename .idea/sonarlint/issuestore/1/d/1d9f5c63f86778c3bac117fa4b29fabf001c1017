@@ -1,0 +1,66 @@
+
+d
+java:S1192Æ"HDefine a constant instead of duplicating this literal "FALLIDO" 8 times.(° Ü€şÿÿÿÿ
+³
+java:S1192¡"–Define a constant instead of duplicating this literal "https://web-prd.inferencelabs9.com/QualtricsSole-1.0/qualtricssoleresult.html?status=" 6 times.(‚Î“ıÿÿÿÿ
+g
+java:S1192¡"KDefine a constant instead of duplicating this literal "COMPLETADO" 4 times.(‚Î“ıÿÿÿÿ
+m
+java:S1192¢"QDefine a constant instead of duplicating this literal "&hsmSent=NINGUNO" 4 times.(˜³úÿÿÿÿ
+t
+java:S1192¢"XDefine a constant instead of duplicating this literal "&linksGenerated=NINGUNO" 4 times.(˜³úÿÿÿÿ
+i
+java:S1192¢"MDefine a constant instead of duplicating this literal "&qtyClients=" 6 times.(˜³úÿÿÿÿ
+g
+java:S1192¢"KDefine a constant instead of duplicating this literal "&surveyId=" 6 times.(˜³úÿÿÿÿ
+g
+java:S1192¡"KDefine a constant instead of duplicating this literal "&fileName=" 6 times.(‚Î“ıÿÿÿÿ
+l
+java:S1192¢"PDefine a constant instead of duplicating this literal "&mailingListId=" 6 times.(˜³úÿÿÿÿ
+F
+java:S1066¡"/Merge this if statement with the enclosing one.(Èªàœ
+k	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¯ÒÎùÿÿÿÿ
+k	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í¯ÒÎùÿÿÿÿ
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¨Àğøÿÿÿÿ
+k	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö—¡áøÿÿÿÿ
+l	java:S117¯"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ‡íşÿÿÿÿ
+g	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÓÁ¿
+g	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒúÁ£
+f	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì’„T
+g	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïàĞà
+g	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ×¸×
+g	java:S116:"RRename this field "SERVLET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÖ“‡
+7
+java:S1170:"!Make this final field static too.(œÖ“‡
+m
+java:S3776F"RRefactor this method to reduce its Cognitive Complexity from 41 to the 15 allowed.(ùêÜåûÿÿÿÿ
+V
+java:S1854P";Remove this useless assignment to local variable "npsList".(î§²ñûÿÿÿÿ
+‰
+java:S1130G"nRemove the declaration of thrown exception 'java.io.IOException' which is a subclass of 'java.lang.Exception'.(İøêùÿÿÿÿ
+E
+java:S1659M"*Declare "part_content" on a separate line.(Í¯ÒÎùÿÿÿÿ
+B
+java:S1481V"'Remove this unused "rs" local variable.(Ôù¹Õøÿÿÿÿ
+G
+java:S1481W",Remove this unused "rs_body" local variable.(©¨Àğøÿÿÿÿ
+8
+java:S1116Á"Remove this empty statement.(úÚ´şÿÿÿÿ
+8
+java:S1116Ç"Remove this empty statement.(úÚ´şÿÿÿÿ
+i
+java:S3776ò"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(ŒúÁ£
+T
+java:S1854ö"8Remove this useless assignment to local variable "temp".(ù³Êİÿÿÿÿÿ
+E
+java:S1481ö")Remove this unused "temp" local variable.(ù³Êİÿÿÿÿÿ
+8	java:S131‘""Add a default case to this switch.(²î—É
+Y
+java:S1479‘"BReduce the number of non-empty switch cases from 41 to at most 30.(²î—É
+W	java:S125®"<This block of commented-out lines of code should be removed.(óïİªûÿÿÿÿ
+>
+java:S1125§"'Remove the unnecessary boolean literal.(Æ¢á¢
+P
+java:S4719½"9Replace charset name argument with StandardCharsets.UTF_8(Å¤İÎ
+Ş
+java:S6541ò"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 178 to 64, Complexity from 52 to 14, Nesting Level from 5 to 2, Number of Variables from 20 to 6.(ŒúÁ£

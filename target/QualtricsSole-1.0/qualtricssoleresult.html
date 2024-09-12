@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit this template
+-->
+<html>
+    <head>
+        <title>Resultado Masivo Qualtrics</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/style2.css">
+        <link rel='stylesheet' href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css'>
+        <script type="text/javascript" src="js/toolsQualtrics.js"></script>
+    </head>
+    <body>
+        <section>
+            <div class="form-box">
+                <div class="form-value">
+                    <div class="tituloResult">
+                        <h2>Qualtrics Resultado Masivo</h2>
+                    </div>
+                    <br>
+                    <div>
+                        <p id="status">Estatus de solicitud: </p>
+                    </div>
+                    <div>
+                        <p id="fileName">Nombre de archivo: </p>
+                    </div>
+                    <div>
+                        <p id="surveyId">ID Encuesta: </p>
+                    </div>
+                    <div>
+                        <p id="mailingListId">Lista de Envío: </p>
+                    </div>
+                    <div>
+                        <p id="qtyClients">Clientes en csv: </p>
+                    </div>
+                    <div>
+                        <p id="linksGenerated">Links generados: </p>
+                    </div>
+                    <div>
+                        <p id="hsmSent">HSM envíados: </p>
+                    </div>
+                    <script>
+                        //Getting Params
+                        var parmStatus = getParamByName('status');
+                        var parmFileName = getParamByName('fileName');
+                        var parmSurveyId = getParamByName('surveyId');
+                        var parmMailingListId = getParamByName('mailingListId');
+                        var parmQtyClients = getParamByName('qtyClients');
+                        var parmLinks = getParamByName('linksGenerated');
+                        var parmHsmSent = getParamByName('hsmSent');
+                        
+                        //Getting HTML Objects
+                        var objectRsStatus = document.getElementById('status');
+                        var objectRsFileName = document.getElementById('fileName');
+                        var objectRsSurveyId= document.getElementById('surveyId');
+                        var objectRsMailingListId= document.getElementById('mailingListId');
+                        var objectRsQtyClients= document.getElementById('qtyClients');
+                        var objectRsLinks= document.getElementById('linksGenerated');
+                        var objectRsHsmSent= document.getElementById('hsmSent');
+                        
+                        objectRsStatus.innerHTML += parmStatus;
+                        objectRsFileName.innerHTML += parmFileName;
+                        objectRsSurveyId.innerHTML += parmSurveyId;
+                        objectRsMailingListId.innerHTML += parmMailingListId;
+                        objectRsQtyClients.innerHTML += parmQtyClients;
+                        objectRsLinks.innerHTML += parmLinks;
+                        objectRsHsmSent.innerHTML += parmHsmSent;
+                        
+                        console.log(parmSurveyId);
+                    </script>
+                    <br>
+                    <div class="cont-button">
+                        <button type="submit" onclick="location.href = 'https://web-prd.inferencelabs9.com/QualtricsSole-1.0/qualtricssoleservice.html'">Volver a la página anterior</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+    </body>
+</html>

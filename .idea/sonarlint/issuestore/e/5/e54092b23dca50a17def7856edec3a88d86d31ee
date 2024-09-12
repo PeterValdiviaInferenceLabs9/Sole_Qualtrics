@@ -1,0 +1,13 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΒΆή•ύÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΒΆή•ύÿÿÿÿ
+f	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªψί
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΙΡωÿÿÿÿ
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ή³κν
+i	java:S116"TRename this field "apikey_ws" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(σφήν
+l	java:S116"WRename this field "cascadeId_ws" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ρ¤Ύό
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°„•Ψÿÿÿÿÿ
+c	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªψί
+h	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ήϋδωÿÿÿÿ
+h	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ΙΡωÿÿÿÿ
+h	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬έ­—ωÿÿÿÿ

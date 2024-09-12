@@ -1,0 +1,24 @@
+
+`
+java:S1192E"EDefine a constant instead of duplicating this literal "\",
+" 6 times.(Ó€ÆÎşÿÿÿÿ
+f	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú’âÔ
+f	java:S1176"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æïïù
+k	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ıÇüÿÿÿÿ
+7
+java:S1643_"Use a StringBuilder instead.(«µ¾Áúÿÿÿÿ
+2
+java:S1643b"Use a StringBuilder instead.(òÈş
+2
+java:S1643g"Use a StringBuilder instead.(‡Ï˜ñ
+1
+java:S1643i"Use a StringBuilder instead.(è÷À,
+7
+java:S1643k"Use a StringBuilder instead.(İ²æÃúÿÿÿÿ
+R
+java:S4973f"<Strings and Boxed types should be compared using "equals()".(«çøË
+k	java:S116"QRename this field "HEADER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²†îøÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(²†îøÿÿÿÿ
+2
+java:S1116["Remove this empty statement.(€°Ä

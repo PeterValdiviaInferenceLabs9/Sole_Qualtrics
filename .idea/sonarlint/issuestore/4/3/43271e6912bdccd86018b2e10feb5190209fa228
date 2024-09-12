@@ -1,0 +1,19 @@
+
+‹
+java:S1319."pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Å½Û¥úÿÿÿÿ
+‹
+java:S13193"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ëó‘¨üÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìœëÁúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÍÓ€üÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸâÁÜúÿÿÿÿ
+k	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãýå•üÿÿÿÿ
+k	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å½Û¥úÿÿÿÿ
+k	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëó‘¨üÿÿÿÿ
+u
+java:S1488/"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(ÖšËøþÿÿÿÿ
+u
+java:S14884"ZImmediately return this expression instead of assigning it to the temporary variable "rs".(§Ô…œûÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Á«©Ìøÿÿÿÿ
+m
+java:S1128"RRemove this unused import 'jdk.nashorn.internal.runtime.arrays.ArrayLikeIterator'.(þüÖíúÿÿÿÿ

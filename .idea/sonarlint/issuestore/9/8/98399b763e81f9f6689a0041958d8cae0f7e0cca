@@ -1,0 +1,58 @@
+
+f	java:S117F"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÁúÃ
+k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É÷Âúÿÿÿÿ
+`
+java:S2095W"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(ë“ÃÜ
+l	java:S116%"RRename this field "SERVLET" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıİÒñøÿÿÿÿ
+<
+java:S1170%"!Make this final field static too.(ıİÒñøÿÿÿÿ
+m
+java:S37760"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ùêÜåûÿÿÿÿ
+L
+java:S26969"6Make the enclosing method "static" or remove this set.(ÖÓÂ
+<	java:S131u""Add a default case to this switch.(Œ¼’ şÿÿÿÿ
+N
+java:S1874{"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874ƒ"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874‹"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874“"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874›"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874£"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874«"3Remove this use of "setCellType"; it is deprecated.(”šø¯ùÿÿÿÿ
+O
+java:S1874³"3Remove this use of "setCellType"; it is deprecated.(”šø¯ùÿÿÿÿ
+O
+java:S1874»"3Remove this use of "setCellType"; it is deprecated.(”šø¯ùÿÿÿÿ
+O
+java:S1874Ã"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+H
+java:S1481Ó"1Remove this unused "cellValueNum" local variable.(Ø³Ï
+=	java:S131Ô""Add a default case to this switch.(Œ¼’ şÿÿÿÿ
+O
+java:S1874Ú"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874â"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874ê"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874ò"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874ú"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874‚"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874Š"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+O
+java:S1874’"3Remove this use of "setCellType"; it is deprecated.(€îÈ½ûÿÿÿÿ
+
+java:S1989°"hHandle the following exceptions that could be thrown by "processRequest": ServletException, IOException.(‘ŸÑ
+
+java:S1989¾"hHandle the following exceptions that could be thrown by "processRequest": ServletException, IOException.(‘ŸÑ
+â
+java:S65410"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 208 to 64, Complexity from 25 to 14, Nesting Level from 5 to 2, Number of Variables from 36 to 6.(ùêÜåûÿÿÿÿ

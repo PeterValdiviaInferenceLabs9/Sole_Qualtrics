@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>QualtricsIntegrationService</servlet-name>
+        <servlet-class>qualtricssole.servlets.QualtricsIntegrationService</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>SendQualtricsByWs</servlet-name>
+        <servlet-class>qualtricssole.servlets.SendQualtricsByWs</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>QualtricsReports</servlet-name>
+        <servlet-class>qualtricssole.servlets.QualtricsReports</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>QualtricsIntegrationService</servlet-name>
+        <url-pattern>/QualtricsIntegrationService</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SendQualtricsByWs</servlet-name>
+        <url-pattern>/SendQualtricsByWs</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>QualtricsReports</servlet-name>
+        <url-pattern>/QualtricsReports</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
